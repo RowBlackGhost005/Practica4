@@ -23,14 +23,15 @@
         android:fontFamily="sans-serif-light"
         android:text="@string/welcome_text"
         android:textAlignment="center"
-        android:textColor="@color/verde"/>
+        android:textColor="@color/verde"
+        android:textSize="24sp"/>
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
-        android:fontFamily="sans-serif-lights"
+        android:fontFamily="sans-serif-light"
         android:text="@string/welcome_description"
         android:textAlignment="center"
         android:textColor="@color/verde"
@@ -43,7 +44,7 @@
         android:layout_height="48dp"
         android:layout_gravity="center"
         android:layout_marginTop="16dp"
-        android:backgroundTint="@drawable/round_button"
+        android:background="@drawable/round_button"
         android:text="@string/button_start"
         android:textColor="@color/white"/>
 

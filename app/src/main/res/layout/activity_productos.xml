@@ -8,7 +8,7 @@
     tools:context=".ProductosActivity">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/productosTitleImageView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:src="@drawable/antojitos" />
